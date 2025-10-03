@@ -1,0 +1,56 @@
+C:/Users/hakan/source/repos/RickAndMortyGame/RickAndMortyGame/bin/Debug/net8.0/RickAndMortyGame.exe
+C:/Users/hakan/source/repos/RickAndMortyGame/RickAndMortyGame/bin/Debug/net8.0/RickAndMortyGame.deps.json
+C:/Users/hakan/source/repos/RickAndMortyGame/RickAndMortyGame/bin/Debug/net8.0/RickAndMortyGame.runtimeconfig.json
+C:/Users/hakan/source/repos/RickAndMortyGame/RickAndMortyGame/bin/Debug/net8.0/RickAndMortyGame.dll
+C:/Users/hakan/source/repos/RickAndMortyGame/RickAndMortyGame/bin/Debug/net8.0/RickAndMortyGame.pdb
+C:/Users/hakan/source/repos/RickAndMortyGame/RickAndMortyGame/obj/Debug/net8.0/RickAndMortyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/hakan/source/repos/RickAndMortyGame/RickAndMortyGame/obj/Debug/net8.0/RickAndMortyGame.AssemblyInfoInputs.cache
+C:/Users/hakan/source/repos/RickAndMortyGame/RickAndMortyGame/obj/Debug/net8.0/RickAndMortyGame.AssemblyInfo.cs
+C:/Users/hakan/source/repos/RickAndMortyGame/RickAndMortyGame/obj/Debug/net8.0/RickAndMortyGame.csproj.CoreCompileInputs.cache
+C:/Users/hakan/source/repos/RickAndMortyGame/RickAndMortyGame/obj/Debug/net8.0/RickAndMortyGame.dll
+C:/Users/hakan/source/repos/RickAndMortyGame/RickAndMortyGame/obj/Debug/net8.0/refint/RickAndMortyGame.dll
+C:/Users/hakan/source/repos/RickAndMortyGame/RickAndMortyGame/obj/Debug/net8.0/RickAndMortyGame.pdb
+C:/Users/hakan/source/repos/RickAndMortyGame/RickAndMortyGame/obj/Debug/net8.0/RickAndMortyGame.genruntimeconfig.cache
+C:/Users/hakan/source/repos/RickAndMortyGame/RickAndMortyGame/obj/Debug/net8.0/ref/RickAndMortyGame.dll
+/home/hakan/İndirilenler/RickAndMortyGame (1)/RickAndMortyGame/RickAndMortyGame/bin/Debug/net8.0/RickAndMortyGame
+/home/hakan/İndirilenler/RickAndMortyGame (1)/RickAndMortyGame/RickAndMortyGame/bin/Debug/net8.0/RickAndMortyGame.deps.json
+/home/hakan/İndirilenler/RickAndMortyGame (1)/RickAndMortyGame/RickAndMortyGame/bin/Debug/net8.0/RickAndMortyGame.runtimeconfig.json
+/home/hakan/İndirilenler/RickAndMortyGame (1)/RickAndMortyGame/RickAndMortyGame/bin/Debug/net8.0/RickAndMortyGame.dll
+/home/hakan/İndirilenler/RickAndMortyGame (1)/RickAndMortyGame/RickAndMortyGame/bin/Debug/net8.0/RickAndMortyGame.pdb
+/home/hakan/İndirilenler/RickAndMortyGame (1)/RickAndMortyGame/RickAndMortyGame/obj/Debug/net8.0/RickAndMortyGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/hakan/İndirilenler/RickAndMortyGame (1)/RickAndMortyGame/RickAndMortyGame/obj/Debug/net8.0/RickAndMortyGame.AssemblyInfoInputs.cache
+/home/hakan/İndirilenler/RickAndMortyGame (1)/RickAndMortyGame/RickAndMortyGame/obj/Debug/net8.0/RickAndMortyGame.AssemblyInfo.cs
+/home/hakan/İndirilenler/RickAndMortyGame (1)/RickAndMortyGame/RickAndMortyGame/obj/Debug/net8.0/RickAndMortyGame.csproj.CoreCompileInputs.cache
+/home/hakan/İndirilenler/RickAndMortyGame (1)/RickAndMortyGame/RickAndMortyGame/obj/Debug/net8.0/RickAndMortyGame.dll
+/home/hakan/İndirilenler/RickAndMortyGame (1)/RickAndMortyGame/RickAndMortyGame/obj/Debug/net8.0/refint/RickAndMortyGame.dll
+/home/hakan/İndirilenler/RickAndMortyGame (1)/RickAndMortyGame/RickAndMortyGame/obj/Debug/net8.0/RickAndMortyGame.pdb
+/home/hakan/İndirilenler/RickAndMortyGame (1)/RickAndMortyGame/RickAndMortyGame/obj/Debug/net8.0/RickAndMortyGame.genruntimeconfig.cache
+/home/hakan/İndirilenler/RickAndMortyGame (1)/RickAndMortyGame/RickAndMortyGame/obj/Debug/net8.0/ref/RickAndMortyGame.dll
+/home/hakan/İndirilenler/RMG/RickAndMortyGame/RickAndMortyGame/bin/Debug/net8.0/RickAndMortyGame
+/home/hakan/İndirilenler/RMG/RickAndMortyGame/RickAndMortyGame/bin/Debug/net8.0/RickAndMortyGame.deps.json
+/home/hakan/İndirilenler/RMG/RickAndMortyGame/RickAndMortyGame/bin/Debug/net8.0/RickAndMortyGame.runtimeconfig.json
+/home/hakan/İndirilenler/RMG/RickAndMortyGame/RickAndMortyGame/bin/Debug/net8.0/RickAndMortyGame.dll
+/home/hakan/İndirilenler/RMG/RickAndMortyGame/RickAndMortyGame/bin/Debug/net8.0/RickAndMortyGame.pdb
+/home/hakan/İndirilenler/RMG/RickAndMortyGame/RickAndMortyGame/obj/Debug/net8.0/RickAndMortyGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/hakan/İndirilenler/RMG/RickAndMortyGame/RickAndMortyGame/obj/Debug/net8.0/RickAndMortyGame.AssemblyInfoInputs.cache
+/home/hakan/İndirilenler/RMG/RickAndMortyGame/RickAndMortyGame/obj/Debug/net8.0/RickAndMortyGame.AssemblyInfo.cs
+/home/hakan/İndirilenler/RMG/RickAndMortyGame/RickAndMortyGame/obj/Debug/net8.0/RickAndMortyGame.csproj.CoreCompileInputs.cache
+/home/hakan/İndirilenler/RMG/RickAndMortyGame/RickAndMortyGame/obj/Debug/net8.0/RickAndMortyGame.dll
+/home/hakan/İndirilenler/RMG/RickAndMortyGame/RickAndMortyGame/obj/Debug/net8.0/refint/RickAndMortyGame.dll
+/home/hakan/İndirilenler/RMG/RickAndMortyGame/RickAndMortyGame/obj/Debug/net8.0/RickAndMortyGame.pdb
+/home/hakan/İndirilenler/RMG/RickAndMortyGame/RickAndMortyGame/obj/Debug/net8.0/RickAndMortyGame.genruntimeconfig.cache
+/home/hakan/İndirilenler/RMG/RickAndMortyGame/RickAndMortyGame/obj/Debug/net8.0/ref/RickAndMortyGame.dll
+C:\Users\Vanessa Vlad\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\hknwork\RickAndMortyGame\RickAndMortyGame\RickAndMortyGame\bin\Debug\net8.0\RickAndMortyGame.exe
+C:\Users\Vanessa Vlad\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\hknwork\RickAndMortyGame\RickAndMortyGame\RickAndMortyGame\bin\Debug\net8.0\RickAndMortyGame.deps.json
+C:\Users\Vanessa Vlad\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\hknwork\RickAndMortyGame\RickAndMortyGame\RickAndMortyGame\bin\Debug\net8.0\RickAndMortyGame.runtimeconfig.json
+C:\Users\Vanessa Vlad\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\hknwork\RickAndMortyGame\RickAndMortyGame\RickAndMortyGame\bin\Debug\net8.0\RickAndMortyGame.dll
+C:\Users\Vanessa Vlad\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\hknwork\RickAndMortyGame\RickAndMortyGame\RickAndMortyGame\bin\Debug\net8.0\RickAndMortyGame.pdb
+C:\Users\Vanessa Vlad\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\hknwork\RickAndMortyGame\RickAndMortyGame\RickAndMortyGame\obj\Debug\net8.0\RickAndMortyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanessa Vlad\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\hknwork\RickAndMortyGame\RickAndMortyGame\RickAndMortyGame\obj\Debug\net8.0\RickAndMortyGame.AssemblyInfoInputs.cache
+C:\Users\Vanessa Vlad\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\hknwork\RickAndMortyGame\RickAndMortyGame\RickAndMortyGame\obj\Debug\net8.0\RickAndMortyGame.AssemblyInfo.cs
+C:\Users\Vanessa Vlad\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\hknwork\RickAndMortyGame\RickAndMortyGame\RickAndMortyGame\obj\Debug\net8.0\RickAndMortyGame.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa Vlad\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\hknwork\RickAndMortyGame\RickAndMortyGame\RickAndMortyGame\obj\Debug\net8.0\RickAndMortyGame.dll
+C:\Users\Vanessa Vlad\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\hknwork\RickAndMortyGame\RickAndMortyGame\RickAndMortyGame\obj\Debug\net8.0\refint\RickAndMortyGame.dll
+C:\Users\Vanessa Vlad\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\hknwork\RickAndMortyGame\RickAndMortyGame\RickAndMortyGame\obj\Debug\net8.0\RickAndMortyGame.pdb
+C:\Users\Vanessa Vlad\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\hknwork\RickAndMortyGame\RickAndMortyGame\RickAndMortyGame\obj\Debug\net8.0\RickAndMortyGame.genruntimeconfig.cache
+C:\Users\Vanessa Vlad\OneDrive - Alma Mater Studiorum Università di Bologna\Documents\hknwork\RickAndMortyGame\RickAndMortyGame\RickAndMortyGame\obj\Debug\net8.0\ref\RickAndMortyGame.dll
